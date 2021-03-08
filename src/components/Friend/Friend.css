@@ -1,0 +1,24 @@
+.friend-details {
+  margin: 16px;
+  padding: 16px;
+  height: 350px;
+  width: 300px;
+  border: 3px solid #54c8eb;
+  border-radius: 16px;
+  background-color: lightgray;
+}
+
+.details-btn {
+  padding: 16px;
+  background-color: lightgray;
+  color: black;
+  font-size: medium;
+  font-weight: bold;
+  border-radius: 16px;
+  cursor: pointer;
+  border: 3px solid #54c8eb;
+}
+.details-btn:hover {
+  background-color: #5bdd5b;
+  border: 3px solid #5bdd5b;
+}
